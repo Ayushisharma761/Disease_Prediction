@@ -27,14 +27,14 @@ Q.5Can the ML algorithms' settings be tuned for the optimal performance?
    
 *FEATURE SELECTION
    Filter Method
-   Chi Square
-   ANOVA
+     Chi Square
+     ANOVA
    Wrapper Method
-   Forward Selection
-   Backward Elimination
-   Recursive Feature Elimination
+     Forward Selection
+     Backward Elimination
+     Recursive Feature Elimination
    Embedded Method
-   Decision Tree Based
+     Decision Tree Based
    
 *FEATURE IMPORTANCE
 
